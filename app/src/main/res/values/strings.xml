@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Treasures of ghost</string>
+
+    <string name="facebook_app_id" translatable="false">509323060467928</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb509323060467928</string>
+
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_fullscreen">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="file_chooser_title">Choose file</string>
+    <string name="cannot_open_file_chooser_txt">Open file</string>
+</resources>
