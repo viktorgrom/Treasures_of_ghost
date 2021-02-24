@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="48sp"
-        android:text="Balloon Fever"
+        android:text="@string/app_name"
         android:textColor="#25A9E4"
         android:layout_below="@id/highScoreTxt"
         android:layout_above="@id/play"
